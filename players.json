@@ -169,10 +169,10 @@
     "region": "SA",
     "tiers": {
       "nethpot": "",
-      "sword": "",
-      "crystal": "",
+      "sword": "LT5",
+      "crystal": "LT4",
       "uhc": "",
-      "mace": ""
+      "mace": "LT3"
     }
   },
   {
