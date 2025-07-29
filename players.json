@@ -350,5 +350,16 @@
       "uhc": "LT5",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "Famstek",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
