@@ -344,11 +344,11 @@
     "mc_nick": "ElJoker",
     "region": "SA",
     "tiers": {
-      "nethpot": "",
-      "sword": "",
-      "crystal": "",
-      "uhc": "",
-      "mace": ""
+      "nethpot": "LT5",
+      "sword": "LT5",
+      "crystal": "HT5",
+      "uhc": "LT5",
+      "mace": "HT5"
     }
   }
 ]
