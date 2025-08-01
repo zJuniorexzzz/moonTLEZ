@@ -680,5 +680,16 @@
       "uhc": "HT5",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Tizu_Chill",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT4",
+      "sword": "LT4",
+      "crystal": "HT5",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
