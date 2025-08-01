@@ -658,5 +658,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "TBOT1",
+    "region": "UNKNOWN",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
