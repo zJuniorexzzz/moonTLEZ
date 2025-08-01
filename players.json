@@ -746,5 +746,16 @@
       "uhc": "HT5",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "AnserHD40",
+    "region": "UNKNOWN",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "LT4",
+      "mace": "HT4"
+    }
   }
 ]
