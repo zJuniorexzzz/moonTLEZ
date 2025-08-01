@@ -757,5 +757,16 @@
       "uhc": "LT4",
       "mace": "HT4"
     }
+  },
+  {
+    "mc_nick": "00745",
+    "region": "UNKNOWN",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "HT5",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
