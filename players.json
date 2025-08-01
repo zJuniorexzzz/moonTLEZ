@@ -702,5 +702,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "ArrozCxnLeche",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "HT4",
+      "mace": ""
+    }
   }
 ]
