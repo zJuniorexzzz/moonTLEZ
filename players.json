@@ -812,5 +812,16 @@
       "uhc": "HT3",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "shadyblaket",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "HT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
