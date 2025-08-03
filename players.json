@@ -856,5 +856,16 @@
       "uhc": "LT4",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "MessiNaldo_3D",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
