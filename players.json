@@ -955,5 +955,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "IvanCosmic",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "HT5",
+      "uhc": "HT3",
+      "mace": "LT3"
+    }
   }
 ]
