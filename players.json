@@ -4,10 +4,10 @@
     "region": "NA",
     "tiers": {
       "nethpot": "LT3",
-      "sword": "",
-      "crystal": "",
+      "sword": "LT4",
+      "crystal": "LT5",
       "uhc": "LT4",
-      "mace": ""
+      "mace": "LT5"
     }
   },
   {
