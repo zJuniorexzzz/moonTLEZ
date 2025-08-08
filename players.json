@@ -966,5 +966,16 @@
       "uhc": "HT3",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "Benjaelwue",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "LT5",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
