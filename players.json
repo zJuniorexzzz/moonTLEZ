@@ -1164,5 +1164,16 @@
       "uhc": "HT5",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "ZXotic",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "HT5",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
