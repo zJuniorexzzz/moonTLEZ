@@ -1263,5 +1263,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "PSR_bder",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
