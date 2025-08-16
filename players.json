@@ -1241,5 +1241,16 @@
       "uhc": "",
       "mace": "LT4"
     }
+  },
+  {
+    "mc_nick": "2Skiill",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "LT4",
+      "mace": ""
+    }
   }
 ]
