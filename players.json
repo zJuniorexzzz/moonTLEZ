@@ -1296,5 +1296,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "BestPeruTop",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "HT5",
+      "mace": ""
+    }
   }
 ]
