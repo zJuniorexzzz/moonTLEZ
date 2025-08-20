@@ -1417,5 +1417,16 @@
       "uhc": "",
       "mace": "LT4"
     }
+  },
+  {
+    "mc_nick": "Forajida",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
