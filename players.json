@@ -1692,5 +1692,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "SakuNotPrime",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3"
+    }
   }
 ]
