@@ -1703,5 +1703,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "solophonk",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
