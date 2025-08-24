@@ -1780,5 +1780,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "usuario_hola",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
