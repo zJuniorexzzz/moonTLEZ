@@ -1835,5 +1835,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "las_tralalerit1s",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3"
+    }
   }
 ]
