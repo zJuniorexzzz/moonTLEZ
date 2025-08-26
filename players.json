@@ -1846,5 +1846,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "thelignay_agus",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
