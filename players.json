@@ -1433,11 +1433,11 @@
     "mc_nick": "0xhnny_",
     "region": "NA",
     "tiers": {
-      "nethpot": "LT3",
-      "sword": "",
-      "crystal": "",
-      "uhc": "",
-      "mace": ""
+      "nethpot": "LT5",
+      "sword": "LT6",
+      "crystal": "LT5",
+      "uhc": "LT5",
+      "mace": "LT5"
     }
   },
   {
