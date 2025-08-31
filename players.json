@@ -2066,5 +2066,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "ARG_Joaquin",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5"
+    }
   }
 ]
