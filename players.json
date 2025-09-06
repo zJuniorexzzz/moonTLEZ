@@ -2220,5 +2220,16 @@
       "uhc": "",
       "mace": "LT5"
     }
+  },
+  {
+    "mc_nick": "Mini_Sans",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
