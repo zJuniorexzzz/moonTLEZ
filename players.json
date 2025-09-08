@@ -2308,5 +2308,16 @@
       "uhc": "",
       "mace": "LT5"
     }
+  },
+  {
+    "mc_nick": "Joaco_BPK",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "HT5",
+      "mace": ""
+    }
   }
 ]
