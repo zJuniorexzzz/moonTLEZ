@@ -2374,5 +2374,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Versate",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
