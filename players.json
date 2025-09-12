@@ -166,9 +166,9 @@
   },
   {
     "mc_nick": "Silava_T1",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
-      "nethpot": "",
+      "nethpot": "LT4",
       "sword": "LT5",
       "crystal": "LT4",
       "uhc": "",
