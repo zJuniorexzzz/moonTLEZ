@@ -1893,13 +1893,13 @@
   },
   {
     "mc_nick": "ons_V",
-    "region": "NA",
+    "region": "SA",
     "tiers": {
       "nethpot": "LT5",
       "sword": "",
       "crystal": "",
       "uhc": "",
-      "mace": ""
+      "mace": "LT4"
     }
   },
   {
