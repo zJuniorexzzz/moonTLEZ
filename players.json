@@ -2506,5 +2506,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Palela_fv",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
