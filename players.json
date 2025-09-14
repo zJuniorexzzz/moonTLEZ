@@ -2627,5 +2627,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "MIRL0_AZUL",
+    "region": "EU",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
