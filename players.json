@@ -2583,5 +2583,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "zThreeEnigma",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
