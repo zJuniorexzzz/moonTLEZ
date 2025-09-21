@@ -2825,5 +2825,16 @@
       "uhc": "HT5",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "aipacher",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
