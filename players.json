@@ -2784,10 +2784,10 @@
   },
   {
     "mc_nick": "dreanking02",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "LT5",
-      "sword": "",
+      "sword": "LT4",
       "crystal": "",
       "uhc": "HT5",
       "mace": ""
