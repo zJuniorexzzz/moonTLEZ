@@ -3034,5 +3034,16 @@
       "uhc": "",
       "mace": "LT5"
     }
+  },
+  {
+    "mc_nick": "Sistemalinux12",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
