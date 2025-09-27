@@ -3045,5 +3045,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "moon",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
