@@ -3122,5 +3122,16 @@
       "uhc": "",
       "mace": "LT4"
     }
+  },
+  {
+    "mc_nick": "Partituras",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
