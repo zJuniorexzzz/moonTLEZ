@@ -3254,5 +3254,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "MrKupp",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
