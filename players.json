@@ -3268,13 +3268,13 @@
   },
   {
     "mc_nick": "opcion_perpleja",
-    "region": "NA",
+    "region": "EU",
     "tiers": {
       "nethpot": "LT5",
       "sword": "",
       "crystal": "",
       "uhc": "",
-      "mace": ""
+      "mace": "LT5"
     }
   },
   {
