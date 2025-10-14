@@ -3584,5 +3584,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "Darwin_AC",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT4",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
