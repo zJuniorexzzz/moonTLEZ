@@ -3595,5 +3595,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "nexo_23",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
