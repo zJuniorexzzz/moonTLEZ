@@ -3694,5 +3694,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "littleminion",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "LT3",
+      "crystal": "HT3",
+      "uhc": "LT4",
+      "mace": ""
+    }
   }
 ]
