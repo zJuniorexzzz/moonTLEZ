@@ -3705,5 +3705,16 @@
       "uhc": "LT4",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "matiaszz",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5"
+    }
   }
 ]
