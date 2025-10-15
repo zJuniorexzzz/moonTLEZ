@@ -3639,5 +3639,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "zBlack_DX",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
