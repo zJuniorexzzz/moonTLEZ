@@ -3914,5 +3914,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Snpm",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
