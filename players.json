@@ -3936,5 +3936,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "Benja",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
