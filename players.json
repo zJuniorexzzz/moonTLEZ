@@ -3881,5 +3881,16 @@
       "uhc": "",
       "mace": "HT4"
     }
+  },
+  {
+    "mc_nick": "Fershino",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "LT3",
+      "crystal": "",
+      "uhc": "LT3",
+      "mace": ""
+    }
   }
 ]
