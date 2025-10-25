@@ -3892,5 +3892,16 @@
       "uhc": "LT3",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "SoySiell",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
