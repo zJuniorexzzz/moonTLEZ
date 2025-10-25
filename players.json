@@ -3969,5 +3969,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "el_perra",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT4"
+    }
   }
 ]
