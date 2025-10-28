@@ -3914,5 +3914,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "Artij",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
