@@ -2619,10 +2619,10 @@
   },
   {
     "mc_nick": "SrMoyo",
-    "region": "NA",
+    "region": "SA",
     "tiers": {
       "nethpot": "LT5",
-      "sword": "",
+      "sword": "LT5",
       "crystal": "LT5",
       "uhc": "",
       "mace": "LT5"
