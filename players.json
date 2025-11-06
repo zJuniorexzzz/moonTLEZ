@@ -4093,11 +4093,11 @@
   },
   {
     "mc_nick": "Y3co_st",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "",
       "sword": "HT5",
-      "crystal": "",
+      "crystal": "HT5",
       "uhc": "",
       "mace": ""
     }
