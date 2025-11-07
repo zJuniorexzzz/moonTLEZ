@@ -1079,9 +1079,9 @@
   },
   {
     "mc_nick": "ZXotic",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
-      "nethpot": "",
+      "nethpot": "LT5",
       "sword": "",
       "crystal": "HT5",
       "uhc": "",
