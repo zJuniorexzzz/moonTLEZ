@@ -2641,11 +2641,11 @@
   },
   {
     "mc_nick": "DIEGOANRSE",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "LT4",
       "sword": "LT4",
-      "crystal": "",
+      "crystal": "LT5",
       "uhc": "LT4",
       "mace": "HT4"
     }
