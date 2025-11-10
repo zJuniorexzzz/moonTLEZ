@@ -4530,5 +4530,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Manchus",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5"
+    }
   }
 ]
