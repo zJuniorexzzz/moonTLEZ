@@ -4541,5 +4541,16 @@
       "uhc": "",
       "mace": "LT5"
     }
+  },
+  {
+    "mc_nick": "AdmZ_Mp",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "LT4",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
