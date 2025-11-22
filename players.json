@@ -4618,5 +4618,16 @@
       "uhc": "",
       "mace": "HT3"
     }
+  },
+  {
+    "mc_nick": "aas",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT4",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
