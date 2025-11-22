@@ -4684,5 +4684,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "MiCarrefour",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "HT5",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
