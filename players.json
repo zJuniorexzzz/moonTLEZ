@@ -1530,13 +1530,13 @@
   },
   {
     "mc_nick": "ons_V",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "HT5",
       "sword": "LT4",
       "crystal": "",
       "uhc": "",
-      "mace": "LT3"
+      "mace": "HT4"
     }
   },
   {
