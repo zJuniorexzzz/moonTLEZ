@@ -2179,10 +2179,10 @@
   },
   {
     "mc_nick": "zThreeEnigma",
-    "region": "NA",
+    "region": "SA",
     "tiers": {
       "nethpot": "LT5",
-      "sword": "",
+      "sword": "HT5",
       "crystal": "",
       "uhc": "",
       "mace": ""
