@@ -3249,7 +3249,7 @@
     "region": "SA",
     "tiers": {
       "nethpot": "LT5",
-      "sword": "",
+      "sword": "LT5",
       "crystal": "",
       "uhc": "",
       "mace": "HT5"
