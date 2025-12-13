@@ -2696,11 +2696,11 @@
   },
   {
     "mc_nick": "Partituras",
-    "region": "NA",
+    "region": "SA",
     "tiers": {
       "nethpot": "",
       "sword": "",
-      "crystal": "",
+      "crystal": "LT5",
       "uhc": "",
       "mace": "LT4"
     }
