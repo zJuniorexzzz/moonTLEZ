@@ -3510,11 +3510,11 @@
   },
   {
     "mc_nick": "joaquin1234vera",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "",
       "sword": "LT5",
-      "crystal": "",
+      "crystal": "LT5",
       "uhc": "",
       "mace": ""
     }
