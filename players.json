@@ -5663,5 +5663,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "KILLX_",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
