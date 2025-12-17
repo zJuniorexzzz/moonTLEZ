@@ -4489,11 +4489,11 @@
   },
   {
     "mc_nick": "Budincitoo",
-    "region": "SA",
+    "region": "NA",
     "tiers": {
       "nethpot": "LT4",
       "sword": "",
-      "crystal": "",
+      "crystal": "LT5",
       "uhc": "",
       "mace": "LT4"
     }
