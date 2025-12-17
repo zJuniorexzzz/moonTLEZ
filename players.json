@@ -5740,5 +5740,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "Polyfety",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
