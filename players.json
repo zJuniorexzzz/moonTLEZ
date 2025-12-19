@@ -5850,5 +5850,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "AlambryxNotPrime",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "HT5"
+    }
   }
 ]
