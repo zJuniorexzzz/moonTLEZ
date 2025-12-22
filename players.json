@@ -5993,5 +5993,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "_TSREALM_",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5"
+    }
   }
 ]
