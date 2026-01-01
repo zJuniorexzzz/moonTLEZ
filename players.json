@@ -196,5 +196,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "KyNexx_",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "LT3",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
