@@ -185,5 +185,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "SilavaNotPrime",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3"
+    }
   }
 ]
