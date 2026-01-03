@@ -284,5 +284,16 @@
       "uhc": "",
       "mace": "LT4"
     }
+  },
+  {
+    "mc_nick": "EzAlone",
+    "region": "EU",
+    "tiers": {
+      "nethpot": "HT4",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
