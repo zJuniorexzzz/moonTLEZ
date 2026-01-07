@@ -317,5 +317,16 @@
       "uhc": "",
       "mace": "LT5"
     }
+  },
+  {
+    "mc_nick": "Jaunbfs",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "HT4",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
