@@ -856,5 +856,16 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "SLE_OFICIAL",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "LT5",
+      "uhc": "",
+      "mace": ""
+    }
   }
 ]
