@@ -1329,5 +1329,16 @@
       "uhc": "",
       "mace": "HT5"
     }
+  },
+  {
+    "mc_nick": "eLBETTER",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
