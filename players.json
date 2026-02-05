@@ -1351,5 +1351,16 @@
       "uhc": "",
       "mace": "LT4"
     }
+  },
+  {
+    "mc_nick": "Condename",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
