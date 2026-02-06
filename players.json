@@ -1329,5 +1329,16 @@
       "uhc": "",
       "mace": "LT3"
     }
+  },
+  {
+    "mc_nick": "_NotImMave",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "LT3",
+      "crystal": "LT5",
+      "uhc": "",
+      "mace": "LT4"
+    }
   }
 ]
