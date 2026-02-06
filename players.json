@@ -1399,5 +1399,17 @@
       "uhc": "",
       "mace": ""
     }
+  },
+  {
+    "mc_nick": "linkforse",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "HT4"
+    }
   }
 ]
