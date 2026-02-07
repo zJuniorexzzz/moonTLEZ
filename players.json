@@ -1566,5 +1566,17 @@
       "mace": "",
       "diapot": "LT3"
     }
+  },
+  {
+    "mc_nick": "CheaterPlayer",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT3",
+      "diapot": ""
+    }
   }
 ]
