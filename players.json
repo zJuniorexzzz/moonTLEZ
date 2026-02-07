@@ -245,11 +245,12 @@
     "mc_nick": "Fabribg",
     "region": "NA",
     "tiers": {
-      "nethpot": "",
+      "nethpot": "HT5",
       "sword": "",
       "crystal": "LT5",
       "uhc": "",
-      "mace": "LT4"
+      "mace": "LT4",
+      "diapot": ""
     }
   },
   {
