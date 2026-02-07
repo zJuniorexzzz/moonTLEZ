@@ -1475,5 +1475,17 @@
       "mace": "LT5",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "swekysoytuano",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "LT3"
+    }
   }
 ]
