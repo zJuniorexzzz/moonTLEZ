@@ -1463,5 +1463,17 @@
       "mace": "",
       "diapot": "HT5"
     }
+  },
+  {
+    "mc_nick": "joaquin1234vera",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "LT5",
+      "diapot": ""
+    }
   }
 ]
