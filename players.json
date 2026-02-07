@@ -1184,11 +1184,12 @@
     "mc_nick": "nzxccc",
     "region": "NA",
     "tiers": {
-      "nethpot": "",
+      "nethpot": "HT5",
       "sword": "LT4",
       "crystal": "",
       "uhc": "",
-      "mace": ""
+      "mace": "",
+      "diapot": ""
     }
   },
   {
