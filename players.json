@@ -1554,5 +1554,17 @@
       "mace": "LT3",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "xExho",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "LT3"
+    }
   }
 ]
