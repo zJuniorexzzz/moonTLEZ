@@ -1489,5 +1489,17 @@
       "mace": "",
       "diapot": "LT3"
     }
+  },
+  {
+    "mc_nick": "dodgehttat",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "LT3",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": ""
+    }
   }
 ]
