@@ -1402,11 +1402,12 @@
     "mc_nick": "MiniCheaterz",
     "region": "NA",
     "tiers": {
-      "nethpot": "HT4",
+      "nethpot": "LT3",
       "sword": "",
       "crystal": "",
       "uhc": "",
-      "mace": ""
+      "mace": "",
+      "diapot": ""
     }
   },
   {
