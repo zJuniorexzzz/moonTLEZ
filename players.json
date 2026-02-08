@@ -14,11 +14,12 @@
     "mc_nick": "_Snown",
     "region": "NA",
     "tiers": {
-      "nethpot": "",
+      "nethpot": "LT4",
       "sword": "LT4",
       "crystal": "LT5",
       "uhc": "",
-      "mace": ""
+      "mace": "",
+      "diapot": ""
     }
   },
   {
