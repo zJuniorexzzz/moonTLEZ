@@ -1672,5 +1672,17 @@
       "mace": "",
       "diapot": "HT4"
     }
+  },
+  {
+    "mc_nick": "los1o",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "LT4"
+    }
   }
 ]
