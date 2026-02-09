@@ -1660,5 +1660,17 @@
       "mace": "",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "Ikissme_",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": "HT4"
+    }
   }
 ]
