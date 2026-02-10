@@ -1077,9 +1077,10 @@
     "tiers": {
       "nethpot": "LT4",
       "sword": "",
-      "crystal": "",
+      "crystal": "LT5",
       "uhc": "",
-      "mace": ""
+      "mace": "",
+      "diapot": ""
     }
   },
   {
