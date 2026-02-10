@@ -1806,5 +1806,17 @@
       "mace": "",
       "diapot": ""
     }
+  },
+  {
+    "mc_nick": "sNowTry_",
+    "region": "SA",
+    "tiers": {
+      "nethpot": "HT4",
+      "sword": "LT3",
+      "crystal": "LT5",
+      "uhc": "",
+      "mace": "LT4",
+      "diapot": "LT3"
+    }
   }
 ]
