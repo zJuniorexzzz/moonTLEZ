@@ -1818,5 +1818,17 @@
       "mace": "LT4",
       "diapot": "LT3"
     }
+  },
+  {
+    "mc_nick": "AdrixGamer",
+    "region": "NA",
+    "tiers": {
+      "nethpot": "HT5",
+      "sword": "",
+      "crystal": "",
+      "uhc": "",
+      "mace": "",
+      "diapot": ""
+    }
   }
 ]
