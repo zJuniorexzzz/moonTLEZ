@@ -1573,8 +1573,8 @@
     "region": "NA",
     "tiers": {
       "nethpot": "LT3",
-      "sword": "",
-      "crystal": "",
+      "sword": "LT3",
+      "crystal": "LT3",
       "uhc": "",
       "mace": "LT3",
       "diapot": "LT3"
